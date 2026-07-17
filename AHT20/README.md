@@ -10,8 +10,8 @@ This example demonstrates how to read temperature and humidity using the AHT20 s
 |--------|----------|
 | VCC | 3.3V |
 | GND | GND |
-| SDA | SDA |
-| SCL | SCL |
+| SDA | IO8 |
+| SCL | IO9 |
 
 ## Library
 
