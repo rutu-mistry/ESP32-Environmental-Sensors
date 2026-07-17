@@ -15,7 +15,7 @@ Reads temperature and humidity from the Sensirion SHT4x sensor.
 
 ## Library
 
-- Adafruit SHT4x
+- Adafruit_SHT4x
 
 ## Example Output
 
