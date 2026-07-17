@@ -2,22 +2,25 @@
 
 ## Description
 
-Reads temperature and humidity using the AHT20 sensor over I2C.
+Reads temperature and humidity from the Sensirion SHT4x sensor.
 
 ## Connections
 
-| AHT20 | ESP32-S3 |
+| SHT4x | ESP32-S3 |
 |--------|----------|
-| VCC | 3.3V |
+| VIN | 3.3V |
 | GND | GND |
-| SDA | SDA |
-| SCL | SCL |
+| SDA | IO8 |
+| SCL | IO9 |
 
-## Libraries
+## Library
 
-- Adafruit AHTX0
+- Adafruit SHT4x
 
 ## Example Output
 
-Temperature: 28.4 °C
-Humidity: 63.5 %
+Temperature : 27.8 °C
+
+Humidity : 60.7 %
+
+```
