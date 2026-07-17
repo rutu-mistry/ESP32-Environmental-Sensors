@@ -15,7 +15,7 @@ This example demonstrates how to read temperature and humidity using the AHT20 s
 
 ## Library
 
-- Adafruit AHTX0
+- Adafruit_AHTX0
 
 ## Example Output
 
