@@ -2,7 +2,7 @@
 
 ## Description
 
-Reads temperature and humidity using the AHT20 sensor over I2C.
+This example demonstrates how to read temperature and humidity using the AHT20 sensor over I2C with an ESP32-S3.
 
 ## Connections
 
@@ -13,11 +13,14 @@ Reads temperature and humidity using the AHT20 sensor over I2C.
 | SDA | SDA |
 | SCL | SCL |
 
-## Libraries
+## Library
 
 - Adafruit AHTX0
 
 ## Example Output
 
-Temperature: 28.4 °C
-Humidity: 63.5 %
+Temperature : 28.5 °C
+
+Humidity : 62.4 %
+
+```
